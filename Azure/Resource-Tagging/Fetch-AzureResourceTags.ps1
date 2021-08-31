@@ -3,7 +3,7 @@
 # Version          : 0.1 | Setting up Active Directory Domain Services 
 #===================================================================================
 
-$BNSsubscriptionName = "cloudboy-sandbox"
+$subscriptionName = "cloudboy-sandbox"
 
     # Select the subscription as default
     Select-AzSubscription -SubscriptionName $subscriptionName
