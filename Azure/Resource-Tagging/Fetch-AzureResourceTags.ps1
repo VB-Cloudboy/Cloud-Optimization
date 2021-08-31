@@ -1,6 +1,6 @@
 #===================================================================================
 # Created by       : Vijay Borkar [VB-Cloudboy --> https://github.com/VB-Cloudboy]
-# Version          : 0.1 | Setting up Active Directory Domain Services 
+# Version          : 0.1 | Fetch Azure Resource Tagging
 #===================================================================================
 
 $subscriptionName = "cloudboy-sandbox"
