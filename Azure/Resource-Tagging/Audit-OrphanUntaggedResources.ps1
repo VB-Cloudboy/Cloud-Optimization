@@ -7,7 +7,7 @@
 #---------ENTER THE SUBSCRIPTION NAME------------------------------------#
 # Populate Information on the accessible azure subscription
 (Get-AzSubscription).name
-$subscriptionName = "acc-azs-dev-sub01"
+$subscriptionName = "Test-Subscription"
 
 
 #---------------DEFINE FUNCTIONS ------------------------------#
